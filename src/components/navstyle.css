@@ -1,0 +1,10 @@
+.nav {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    background-color: rgb(187, 187, 187);
+}
+
+.nav h3 {
+    padding: 10px;
+}
