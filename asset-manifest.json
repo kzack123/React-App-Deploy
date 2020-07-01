@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kzack123/React-App-Deploy.git/static/css/main.a2ce7bf2.chunk.css",
+    "main.js": "/kzack123/React-App-Deploy.git/static/js/main.b1b5c592.chunk.js",
+    "main.js.map": "/kzack123/React-App-Deploy.git/static/js/main.b1b5c592.chunk.js.map",
+    "runtime-main.js": "/kzack123/React-App-Deploy.git/static/js/runtime-main.7d237aab.js",
+    "runtime-main.js.map": "/kzack123/React-App-Deploy.git/static/js/runtime-main.7d237aab.js.map",
+    "static/js/2.3e37b063.chunk.js": "/kzack123/React-App-Deploy.git/static/js/2.3e37b063.chunk.js",
+    "static/js/2.3e37b063.chunk.js.map": "/kzack123/React-App-Deploy.git/static/js/2.3e37b063.chunk.js.map",
+    "index.html": "/kzack123/React-App-Deploy.git/index.html",
+    "precache-manifest.524c4a7909e03e5e0029df949d945a8f.js": "/kzack123/React-App-Deploy.git/precache-manifest.524c4a7909e03e5e0029df949d945a8f.js",
+    "service-worker.js": "/kzack123/React-App-Deploy.git/service-worker.js",
+    "static/css/main.a2ce7bf2.chunk.css.map": "/kzack123/React-App-Deploy.git/static/css/main.a2ce7bf2.chunk.css.map",
+    "static/js/2.3e37b063.chunk.js.LICENSE.txt": "/kzack123/React-App-Deploy.git/static/js/2.3e37b063.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d237aab.js",
+    "static/js/2.3e37b063.chunk.js",
+    "static/css/main.a2ce7bf2.chunk.css",
+    "static/js/main.b1b5c592.chunk.js"
+  ]
+}
