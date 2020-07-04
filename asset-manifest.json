@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kzack123/React-App-Deploy.git/static/css/main.083f9a48.chunk.css",
-    "main.js": "/kzack123/React-App-Deploy.git/static/js/main.f17297ed.chunk.js",
-    "main.js.map": "/kzack123/React-App-Deploy.git/static/js/main.f17297ed.chunk.js.map",
-    "runtime-main.js": "/kzack123/React-App-Deploy.git/static/js/runtime-main.7d237aab.js",
-    "runtime-main.js.map": "/kzack123/React-App-Deploy.git/static/js/runtime-main.7d237aab.js.map",
-    "static/js/2.3e37b063.chunk.js": "/kzack123/React-App-Deploy.git/static/js/2.3e37b063.chunk.js",
-    "static/js/2.3e37b063.chunk.js.map": "/kzack123/React-App-Deploy.git/static/js/2.3e37b063.chunk.js.map",
-    "index.html": "/kzack123/React-App-Deploy.git/index.html",
-    "precache-manifest.ee7d372076b83dfa9df68c921e75bf7b.js": "/kzack123/React-App-Deploy.git/precache-manifest.ee7d372076b83dfa9df68c921e75bf7b.js",
-    "service-worker.js": "/kzack123/React-App-Deploy.git/service-worker.js",
-    "static/css/main.083f9a48.chunk.css.map": "/kzack123/React-App-Deploy.git/static/css/main.083f9a48.chunk.css.map",
-    "static/js/2.3e37b063.chunk.js.LICENSE.txt": "/kzack123/React-App-Deploy.git/static/js/2.3e37b063.chunk.js.LICENSE.txt"
+    "main.css": "/React-App-Deploy/static/css/main.083f9a48.chunk.css",
+    "main.js": "/React-App-Deploy/static/js/main.87fc1c76.chunk.js",
+    "main.js.map": "/React-App-Deploy/static/js/main.87fc1c76.chunk.js.map",
+    "runtime-main.js": "/React-App-Deploy/static/js/runtime-main.7c457f00.js",
+    "runtime-main.js.map": "/React-App-Deploy/static/js/runtime-main.7c457f00.js.map",
+    "static/js/2.3e37b063.chunk.js": "/React-App-Deploy/static/js/2.3e37b063.chunk.js",
+    "static/js/2.3e37b063.chunk.js.map": "/React-App-Deploy/static/js/2.3e37b063.chunk.js.map",
+    "index.html": "/React-App-Deploy/index.html",
+    "precache-manifest.a54317c52ff3484d7dca0196e8abf15d.js": "/React-App-Deploy/precache-manifest.a54317c52ff3484d7dca0196e8abf15d.js",
+    "service-worker.js": "/React-App-Deploy/service-worker.js",
+    "static/css/main.083f9a48.chunk.css.map": "/React-App-Deploy/static/css/main.083f9a48.chunk.css.map",
+    "static/js/2.3e37b063.chunk.js.LICENSE.txt": "/React-App-Deploy/static/js/2.3e37b063.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d237aab.js",
+    "static/js/runtime-main.7c457f00.js",
     "static/js/2.3e37b063.chunk.js",
     "static/css/main.083f9a48.chunk.css",
-    "static/js/main.f17297ed.chunk.js"
+    "static/js/main.87fc1c76.chunk.js"
   ]
 }
